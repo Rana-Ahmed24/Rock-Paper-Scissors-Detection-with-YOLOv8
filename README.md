@@ -88,7 +88,6 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
-
 ## Usage
 
 1. Run the training script to train the model.
